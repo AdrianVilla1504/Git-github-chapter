@@ -1,1 +1,3 @@
 Archivo creado desde github para añadir al repositorio local clonado en el pc.
+
+Added text to represent another commit, for practice witht he commands git fetch origin and git pull
